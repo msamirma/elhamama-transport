@@ -14,11 +14,12 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
 
-The app does use third party services that may collect information used to identify you.
+**Information Collection and Use**
 
-Link to privacy policy of third party service providers used by the app
-
-*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission;
+*   Information regarding your location.
+*   Pictures and other information from your Device's camera and photo library.
+*   We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device. You can enable or disable access to this information at any time, through Your Device settings.
 
 **Log Data**
 
@@ -61,5 +62,5 @@ This policy is effective as of 2021-01-16
 
 **Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at msamir.ma@hotmail.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at info@elhamama.org
 
