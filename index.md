@@ -21,6 +21,15 @@ For a better experience, while using our Service, we may require you to provide 
 *   Pictures and other information from your Device's camera and photo library.
 *   We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device. You can enable or disable access to this information at any time, through Your Device settings.
 
+**Service Providers**
+
+We may employ third-party companies and individuals due to the following reasons:
+
+*   To facilitate our Service;
+*   To provide us with sms gateway;
+
+We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
 **Log Data**
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
